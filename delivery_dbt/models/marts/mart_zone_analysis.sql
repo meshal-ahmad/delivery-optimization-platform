@@ -1,5 +1,5 @@
 with orders as (
-    select * from main.stg_orders
+    select * from PUBLIC.stg_orders
 ),
 
 zone_stats as (

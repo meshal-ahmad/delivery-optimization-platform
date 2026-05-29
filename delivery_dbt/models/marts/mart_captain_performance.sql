@@ -1,9 +1,9 @@
 with orders as (
-    select * from main.stg_orders
+    select * from PUBLIC.stg_orders
 ),
 
 captains as (
-    select * from main.stg_captains
+    select * from PUBLIC.stg_captains
 ),
 
 captain_stats as (
