@@ -45,7 +45,7 @@ Streamlit Dashboard
 |---|---|
 | Data Generation | Python, Faker, Pandas |
 | Cloud Storage | AWS S3 |
-| Data Warehouse | DuckDB |
+| Data Warehouse | snowflake |
 | Transformations | dbt-core |
 | Orchestration | Apache Airflow, Docker |
 | Machine Learning | XGBoost, Scikit-learn |
